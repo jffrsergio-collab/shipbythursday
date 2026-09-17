@@ -1,0 +1,543 @@
+{
+  "profile_count": 19,
+  "profiles": [
+    {
+      "auth_json_exists": false,
+      "config_sha256": "a83da3ed3a02f2ea82f64d3f6cf05473e1eb21daa4c28a7c213708749584d156",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 1,
+      "cron_storage_status": "parsed",
+      "cron_stored_job_count": 1,
+      "cron_yaml_files_not_registration_evidence": [
+        "fleet-watcher.yaml"
+      ],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "GITHUB_TOKEN",
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY",
+        "NOTION_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "engineer-bot-repl",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-creative-director",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-data-dan",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-drop",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-eggbot",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-email-ethan",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-grokbot",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-hashbrown",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3435b805c9bc8048f7331ed7c6629f35900c4a0e2a4e01169f68b46ee6632d1a",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-host-finder",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": "tavily",
+        "search_backend": "tavily"
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-kb-manager",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-manager",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": true,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-marky",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-operator-research",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-ops-bot",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-pixel",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-prioritizer",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-prospecting-bot",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-slide-sonia",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    },
+    {
+      "auth_json_exists": false,
+      "config_sha256": "3ebc734e9db9fcd8fd65e0719f74411f16b0e203ebfdbff89e0f5fedd11584a4",
+      "config_status": "parsed",
+      "cron_explicitly_enabled_count": 0,
+      "cron_storage_status": "absent",
+      "cron_stored_job_count": 0,
+      "cron_yaml_files_not_registration_evidence": [],
+      "custom_providers": [
+        "freellmapi"
+      ],
+      "env_var_names": [
+        "HERMES_CUSTOM_FREELLMAPI_API_KEY"
+      ],
+      "errors": [],
+      "memories_md_exists": true,
+      "memory_files": [],
+      "model_default": "upstage/solar-pro4:free",
+      "model_provider": "nous",
+      "profile": "ship-steve",
+      "reasoning_effort": "medium",
+      "runtime_readiness": "not_checked",
+      "soul_exists": true,
+      "web_backends": {
+        "extract_backend": null,
+        "search_backend": null
+      }
+    }
+  ],
+  "schema_version": 2,
+  "scope": "profile_files_only; root/shared auth and runtime not tested"
+}
